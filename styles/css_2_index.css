@@ -1,0 +1,28 @@
+img {
+    width: 300px;
+}
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    margin-left: 5px;
+    padding: 0px 5px;
+}
+h3 {
+    font-size: 30px;
+    margin: 5px 5px;
+    padding:  0px 8px;
+}
+.header {
+    background-color: rgba(243, 197, 166, 0.651);
+}
+.n1{
+    background-color: rgba(250, 216, 192, 0.603);
+}
+li {
+    list-style: none;
+    margin-left: 39%;
+    font-size: 20px;
+}
